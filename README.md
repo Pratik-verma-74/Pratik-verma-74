@@ -1,3 +1,5 @@
+![logo](![WhatsApp Image 2025-01-18 at 9 03 10 AM (1)](https://github.com/user-attachments/assets/6d8edacf-96de-443b-afd2-a00f52812050)
+)
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-verma-74&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-verma-74" /> </p>
