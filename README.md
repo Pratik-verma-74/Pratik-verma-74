@@ -3,7 +3,7 @@
 # ⚡ PRATIK VERMA ⚡
 ### `AI & Full-Stack Automation Engineer`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=500&height=40&lines=%3E_INITIALIZING_PRATIK_SYSTEM...;%3E_AI_%26_FULLSTACK_AUTOMATOR;%3E_CREATOR_OF_TECHVERMA;%3E_BUILDING_SCALABLE_SAAS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=420&height=35&lines=%3E_PRATIK_VERMA_SYSTEM;%3E_AI_%26_FULLSTACK_AUTOMATOR;%3E_CREATOR_OF_TECHVERMA" alt="Typing SVG" />
 
 <p align="center">
   <code><b>[SYSTEM: ONLINE]</b></code> • <code><b>[ROLE: AUTOMATOR]</b></code> • <code><b>[LEVEL: ADMIN]</b></code>
@@ -27,33 +27,31 @@
 
 ---
 
-### 💻 System Overview & Tech Stack
+### 🖥️ `pratik_core.py` — Terminal Console
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">🖥️ Terminal Console</h4>
-      
 ```python
 class HackerDeveloper:
     def __init__(self):
         self.name = "Pratik Verma"
-        self.role = "AI & Automations"
-        self.stack = ["Py", "TS", "React", "Next"]
-        self.channel = "TechVerma"
+        self.handle = "Pratik-verma-74"
+        self.role = "AI & Full-Stack Automation Engineer"
+        self.channel = "TechVerma (YouTube)"
+        self.stack = ["Python", "TypeScript", "React", "Next.js", "Tailwind"]
         
-    def mission(self):
-        return "Building Smart AI Apps"
+    def get_mission(self):
+        return "Building intelligent apps, automation workflows & high-performance UI."
+
+sys = HackerDeveloper()
+print(sys.get_mission())
 ```
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">🛠️ Tech Arsenal</h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,tailwind,git,github,vscode,vercel&theme=dark" alt="Skills" />
-      </p>
-    </td>
-  </tr>
-</table>
+
+---
+
+### 🛠️ Animated Tech Arsenal (Skills Grid)
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,tailwind,git,github,vscode,vercel,postman,figma&theme=dark" alt="Animated Skills" />
+</div>
 
 ---
 
@@ -90,21 +88,14 @@ class HackerDeveloper:
 
 ### 📊 Real-Time Cyber Dashboard
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pratik-verma-74&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pratik-verma-74&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik-verma-74&theme=synthwave&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <!-- Reliable 200-OK Summary Cards (Zero Rate-Limit) -->
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pratik-verma-74&theme=synthwave" alt="GitHub Stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratik-verma-74&theme=synthwave" alt="Top Languages" />
+  <br><br>
+  <!-- Streak Stats Card (100% Working) -->
+  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik-verma-74&theme=synthwave&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
