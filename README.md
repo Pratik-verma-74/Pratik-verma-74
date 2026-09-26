@@ -39,7 +39,7 @@ class HackerDeveloper:
         self.stack = ["Python", "TypeScript", "React", "Next.js", "Tailwind"]
         
     def get_mission(self):
-        return "Building intelligent apps, automation workflows & high-performance UI."
+        return "Building intelligent healthcare, automation & high-performance platforms."
 
 sys = HackerDeveloper()
 print(sys.get_mission())
@@ -55,31 +55,31 @@ print(sys.get_mission())
 
 ---
 
-### ⚡ Featured Projects
+### 🚀 Flagship Highlighted Projects
 
 <table>
   <tr>
     <td width="50%">
-      <b>📄 AI Resume Builder</b><br>
-      <sub>Smart AI resume generator with clean UI & export tools.</sub><br>
-      <code>JavaScript</code> • <code>AI Automation</code>
+      <b>🏥 Sirjan Memorial Hospital</b><br>
+      <sub>Comprehensive healthcare management platform for patient care & medical services.</sub><br>
+      <code>Next.js</code> • <code>Healthcare</code> • <code>React</code>
     </td>
     <td width="50%">
-      <b>🤖 YouTube Automations Tool</b><br>
-      <sub>Python workflow engine for creators & analytics.</sub><br>
-      <code>Python</code> • <code>Automation</code>
+      <b>💊 WolterPharma</b><br>
+      <sub>Pharmaceutical E-commerce & healthcare management web application.</sub><br>
+      <code>TypeScript</code> • <code>Pharma Tech</code> • <code>Tailwind</code>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <b>🎮 Glassmorphism Quiz App</b><br>
-      <sub>Mobile-friendly interactive glassmorphism UI quiz.</sub><br>
-      <code>CSS3</code> • <code>UI/UX</code>
+      <b>⚡ PS8 Platform</b><br>
+      <sub>High-performance automation & custom software workflow tool.</sub><br>
+      <code>Python</code> • <code>Automation</code> • <code>Full-Stack</code>
     </td>
     <td width="50%">
-      <b>🌐 TPC Madhepura Live Platform</b><br>
-      <sub>Production full-stack web application on Vercel.</sub><br>
-      <code>Next.js</code> • <code>Production Live</code>
+      <b>🚀 Bihar To ISRO</b><br>
+      <sub>Educational aerospace platform empowering young space technology innovators.</sub><br>
+      <code>Web Platform</code> • <code>EdTech</code> • <code>Aerospace</code>
     </td>
   </tr>
 </table>
@@ -107,4 +107,9 @@ print(sys.get_mission())
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pratik-verma-74/Pratik-verma-74/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pratik-verma-74/Pratik-verma-74/output/github-contribution-grid-snake.svg">
   </picture>
+  <br><br>
+  <!-- BUY ME A COFFEE SPONSOR BADGE -->
+  <a href="https://buymeacoffee.com/Pratik-verma-74" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
 </div>
