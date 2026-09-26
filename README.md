@@ -1,16 +1,17 @@
 <div align="center">
 
-<!-- 1. DYNAMIC ANIMATED WAVING HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,10,25,30&height=220&section=header&text=PRATIK%20VERMA&fontSize=48&fontAlign=50&fontAlignY=35&animation=fadeIn&stroke=00FF66&strokeWidth=2" width="100%" />
+<!-- 1. CYBERPUNK DARK ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:000000&height=220&section=header&text=PRATIK%20VERMA&fontSize=56&fontAlign=50&fontAlignY=38&animation=twinkling&stroke=00FF66&strokeWidth=3&desc=%3E_AI_%26_FULLSTACK_AUTOMATION_ENGINEER&descSize=20&descAlign=50&descAlignY=70" width="100%" alt="Cyberpunk Header" />
 
-<!-- 2. ANIMATED NEON TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00FF66&center=true&vCenter=true&width=650&height=60&lines=%E2%9A%A1+AI+%26+Full-Stack+Automation+Engineer;%F0%9F%91%BE+Cyberpunk+Aesthetic+%26+UI%2FUX+Architect;%F0%9F%93%B9+Creator+of+TechVerma;%F0%9F%9A%80+Building+Real-World+SaaS+Solutions" alt="Animated Typing SVG" />
+<!-- 2. ANIMATED MATRIX TYPING SVG -->
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=650&height=50&lines=%3E_INITIALIZING_PRATIK_SYSTEM...;%3E_AI_%26_FULLSTACK_AUTOMATION_ENGINEER;%3E_CREATOR_OF_TECHVERMA_(YOUTUBE);%3E_BUILDING_SCALABLE_SAAS_SOLUTIONS" alt="Typing SVG" />
 
 <p align="center">
-  <code><b>[SYSTEM STATUS: ONLINE]</b></code> • <code><b>[ROLE: AI AUTOMATION ENGINEER]</b></code> • <code><b>[CLEARANCE: ADMIN]</b></code>
+  <code><b>[SYSTEM STATUS: ONLINE]</b></code> • <code><b>[ROLE: AI AUTOMATOR]</b></code> • <code><b>[CLEARANCE: ADMIN]</b></code>
 </p>
 
-<!-- 3. ANIMATED GLOWING SOCIAL & CONNECT BADGES -->
+<!-- 3. CYBER GLOWING CONNECT BADGES -->
 <p align="center">
   <a href="https://portfolio-lime-zeta.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/⚡_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00FF66&color=050505" />
@@ -34,15 +35,7 @@
 
 ---
 
-### 🏆 3D GitHub Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pratik-verma-74&theme=darkhub&no-frame=true&column=6&margin-w=10" width="100%" alt="3D Trophies" />
-</div>
-
----
-
-### 💻 `pratik_core.py` — Terminal Console
+### 🖥️ `pratik_core.py` — Terminal Console
 
 ```python
 class HackerDeveloper:
@@ -65,7 +58,7 @@ print(sys.get_mission())
 ### 🛠️ Animated Tech Arsenal (Skills Grid)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,tailwind,html,css,git,github,vscode,vercel,postman,figma&perline=7" alt="Animated Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,tailwind,html,css,git,github,vscode,vercel,postman,figma&theme=dark" alt="Animated Skills" />
 </div>
 
 ---
