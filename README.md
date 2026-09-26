@@ -55,30 +55,30 @@ print(sys.get_mission())
 
 ---
 
-### 🚀 Flagship Highlighted Projects
+### 🚀 Real Flagship Projects (Clickable Repositories)
 
 <table>
   <tr>
     <td width="50%">
-      <b>🏥 Sirjan Memorial Hospital</b><br>
-      <sub>Comprehensive healthcare management platform for patient care & medical services.</sub><br>
+      <a href="https://github.com/Pratik-verma-74/patient-report" target="_blank"><b>🏥 Sirjan Memorial Hospital</b></a><br>
+      <sub>Healthcare management platform for patient care & medical reporting.</sub><br>
       <code>Next.js</code> • <code>Healthcare</code> • <code>React</code>
     </td>
     <td width="50%">
-      <b>💊 WolterPharma</b><br>
-      <sub>Pharmaceutical E-commerce & healthcare management web application.</sub><br>
+      <a href="https://github.com/Pratik-verma-74/wolterpharma" target="_blank"><b>💊 WolterPharma</b></a><br>
+      <sub>Pharmaceutical E-commerce & healthcare catalog web application.</sub><br>
       <code>TypeScript</code> • <code>Pharma Tech</code> • <code>Tailwind</code>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <b>⚡ PS8 Platform</b><br>
+      <a href="https://github.com/Pratik-verma-74/ps8" target="_blank"><b>⚡ PS8 Platform</b></a><br>
       <sub>High-performance automation & custom software workflow tool.</sub><br>
       <code>Python</code> • <code>Automation</code> • <code>Full-Stack</code>
     </td>
     <td width="50%">
-      <b>🚀 Bihar To ISRO</b><br>
-      <sub>Educational aerospace platform empowering young space technology innovators.</sub><br>
+      <a href="https://github.com/Pratik-verma-74/ISRO-HACKATHOB-PS1" target="_blank"><b>🚀 Bihar To ISRO (ISRO Hackathon)</b></a><br>
+      <sub>Educational space technology platform developed for ISRO Hackathon.</sub><br>
       <code>Web Platform</code> • <code>EdTech</code> • <code>Aerospace</code>
     </td>
   </tr>
@@ -86,14 +86,14 @@ print(sys.get_mission())
 
 ---
 
-### 📊 Real-Time Cyber Dashboard
+### 📊 Real-Time Cyber Dashboard (Live Verified Data)
 
 <div align="center">
-  <!-- Reliable 200-OK Summary Cards (Zero Rate-Limit) -->
+  <!-- Live Verified Summary Cards -->
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pratik-verma-74&theme=synthwave" alt="GitHub Stats" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratik-verma-74&theme=synthwave" alt="Top Languages" />
   <br><br>
-  <!-- Streak Stats Card (100% Working) -->
+  <!-- Live Streak Stats Card -->
   <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik-verma-74&theme=synthwave&hide_border=true" alt="GitHub Streak" />
 </div>
 
