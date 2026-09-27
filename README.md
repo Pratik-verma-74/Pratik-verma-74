@@ -9,9 +9,9 @@
   <code><b>[SYSTEM: ONLINE]</b></code> • <code><b>[ROLE: AUTOMATOR]</b></code> • <code><b>[LEVEL: ADMIN]</b></code>
 </p>
 
-<!-- COMPACT BADGES ROW -->
+<!-- COMPACT REAL SOCIAL BADGES ROW -->
 <p align="center">
-  <a href="https://portfolio-lime-zeta.vercel.app/" target="_blank">
+  <a href="https://pratikverma74.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/⚡_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00FF66" />
   </a>
   <a href="https://linkedin.com/in/pratik-verma-177b49299" target="_blank">
@@ -27,23 +27,35 @@
 
 ---
 
-### 🖥️ `pratik_core.py` — Terminal Console
+### 🖥️ Developer Workspace & Terminal
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h4 align="center">💻 `pratik_core.py` — Terminal Console</h4>
 
 ```python
 class HackerDeveloper:
     def __init__(self):
         self.name = "Pratik Verma"
         self.handle = "Pratik-verma-74"
-        self.role = "AI & Full-Stack Automation Engineer"
+        self.portfolio = "pratikverma74.vercel.app"
+        self.role = "AI & Full-Stack Automator"
         self.channel = "TechVerma (YouTube)"
         self.stack = ["Python", "TypeScript", "React", "Next.js", "Tailwind"]
         
     def get_mission(self):
-        return "Building intelligent healthcare, automation & high-performance platforms."
+        return "Building smart healthcare & AI automation platforms."
 
 sys = HackerDeveloper()
 print(sys.get_mission())
 ```
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -109,7 +121,7 @@ print(sys.get_mission())
   </picture>
   <br><br>
   <!-- BUY ME A COFFEE SPONSOR BADGE -->
-  <a href="https://buymeacoffee.com/Pratik-verma-74" target="_blank">
+  <a href="https://buymeacoffee.com/pratikverma74" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </div>
