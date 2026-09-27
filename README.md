@@ -1,30 +1,31 @@
 <div align="center">
 
-<!-- 1. DYNAMIC DARK ANIMATED WAVING HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:000000&height=180&section=header&text=PRATIK%20VERMA&fontSize=42&fontAlign=50&fontAlignY=40&stroke=00FF66&strokeWidth=2" width="100%" alt="Header Banner" />
+<!-- PORTFOLIO HERO HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:000000&height=200&section=header&text=PRATIK%20VERMA&fontSize=48&fontAlign=50&fontAlignY=38&stroke=00FF66&strokeWidth=2&desc=AI%20%26%20FULL-STACK%20AUTOMATION%20ENGINEER&descSize=18&descAlign=50&descAlignY=65" width="100%" alt="Portfolio Hero Header" />
 
-<!-- 2. ANIMATED MATRIX TYPING CONSOLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=420&height=35&lines=%3E_PRATIK_VERMA_SYSTEM;%3E_AI_%26_FULLSTACK_AUTOMATOR;%3E_CREATOR_OF_TECHVERMA" alt="Typing SVG" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=450&height=35&lines=%3E_PORTFOLIO_SYSTEM_ONLINE...;%3E_AI_%26_FULLSTACK_ENGINEER;%3E_CREATOR_OF_TECHVERMA" alt="Typing SVG" />
 
 <p align="center">
-  <code><b>[SYSTEM: ONLINE]</b></code> • <code><b>[ROLE: AI AUTOMATOR]</b></code> • <code><b>[LEVEL: ADMIN]</b></code>
+  <code><b>[SYSTEM: ONLINE]</b></code> • <code><b>[LOCATION: INDIA]</b></code> • <code><b>[STATUS: BUILDING SAAS]</b></code>
 </p>
 
-<!-- 3. REAL SOCIAL CONNECT BADGES -->
+<!-- ACTION BADGES ROW -->
 <p align="center">
   <a href="https://pratikverma74.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/⚡_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00FF66" />
+    <img src="https://img.shields.io/badge/⚡_LIVE_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00FF66" />
   </a>
   <a href="https://linkedin.com/in/pratik-verma-177b49299" target="_blank">
     <img src="https://img.shields.io/badge/🌐_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://tpc-madhepura.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_LIVE_APP-FF4500?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/🚀_FEATURED_APP-FF4500?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Pratik-verma-74&color=00ff66&style=for-the-badge&label=VISITORS" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Pratik-verma-74&color=00ff66&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </p>
 
-<!-- 4. PREMIUM ANIMATED CODER GIF BANNER -->
+<!-- CODER ANIMATED GIF BANNER -->
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyberpunk Coder GIF" />
 
@@ -32,7 +33,20 @@
 
 ---
 
-### 💻 `pratik_core.py` — Terminal Console
+### 👨‍💻 Portfolio Overview & Mission
+
+```yaml
+Developer: Pratik Verma
+Role: AI & Full-Stack Automation Engineer
+Channel: TechVerma (YouTube)
+Core_Focus: Healthcare Apps, Workflow Automation & High-Performance Web UI
+Location: India 🇮🇳
+Live_Portfolio: pratikverma74.vercel.app
+```
+
+---
+
+### 💻 `pratik_core.py` — Developer Terminal
 
 ```python
 class HackerDeveloper:
@@ -54,7 +68,7 @@ print(sys.get_mission())
 
 ---
 
-### 🛠️ Animated Tech Arsenal (Skills Grid)
+### 🛠️ Tech Arsenal & Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,tailwind,git,github,vscode,vercel,postman,figma&theme=dark" alt="Animated Skills" />
@@ -62,13 +76,13 @@ print(sys.get_mission())
 
 ---
 
-### 🚀 Real Flagship Projects (Clickable Repositories)
+### 🚀 Featured Portfolio Projects (Clickable Work)
 
 <table>
   <tr>
     <td width="50%">
       <a href="https://github.com/Pratik-verma-74/patient-report" target="_blank"><b>🏥 Sirjan Memorial Hospital</b></a><br>
-      <sub>Healthcare management platform for patient care & medical reporting.</sub><br>
+      <sub>Comprehensive healthcare management platform for patient care & medical reporting.</sub><br>
       <code>Next.js</code> • <code>Healthcare</code> • <code>React</code>
     </td>
     <td width="50%">
@@ -100,10 +114,12 @@ print(sys.get_mission())
 
 ---
 
-### 📊 Real-Time Cyber Dashboard (Live Verified Data)
+### 📊 Real-Time Dynamic Analytics (Live GitHub API)
+
+> 💡 *Note: The stats below are **100% LIVE REAL-TIME DATA** fetched dynamically from GitHub's server on every commit!*
 
 <div align="center">
-  <!-- Live Verified Summary Cards -->
+  <!-- Live Verified Dynamic Summary Cards -->
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pratik-verma-74&theme=synthwave" alt="GitHub Stats" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratik-verma-74&theme=synthwave" alt="Top Languages" />
   <br><br>
@@ -113,7 +129,7 @@ print(sys.get_mission())
 
 ---
 
-### 🐍 Contribution Activity Matrix
+### 🐍 Live Contribution Activity Matrix
 
 <div align="center">
   <picture>
