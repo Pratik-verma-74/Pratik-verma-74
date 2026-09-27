@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 240" width="100%" height="240">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070a12" />
+      <stop offset="50%" stop-color="#0c1220" />
+      <stop offset="100%" stop-color="#050810" />
+    </linearGradient>
+
+    <!-- Neon Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="subtleGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <style>
+      .title {
+        font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+        font-weight: 900;
+        font-size: 46px;
+        fill: #00FF66;
+        letter-spacing: 6px;
+        text-shadow: 0 0 15px rgba(0, 255, 102, 0.7);
+        animation: pulseText 3s ease-in-out infinite alternate;
+      }
+      .subtitle {
+        font-family: 'Consolas', 'Fira Code', monospace;
+        font-weight: 600;
+        font-size: 17px;
+        fill: #00F3FF;
+        letter-spacing: 3px;
+        opacity: 0.95;
+      }
+      .status {
+        font-family: 'Consolas', 'Fira Code', monospace;
+        font-weight: 500;
+        font-size: 13px;
+        fill: #8b9bb4;
+        letter-spacing: 1.5px;
+      }
+      .badge-accent {
+        fill: #00FF66;
+        font-weight: bold;
+      }
+      .border-pulse {
+        animation: borderGlow 4s ease-in-out infinite alternate;
+      }
+      .circuit-line {
+        stroke: #00FF66;
+        stroke-opacity: 0.18;
+        stroke-dasharray: 6 4;
+      }
+      @keyframes pulseText {
+        0% { fill: #00FF66; filter: drop-shadow(0 0 8px rgba(0,255,102,0.6)); }
+        50% { fill: #38BDF8; filter: drop-shadow(0 0 16px rgba(56,189,248,0.8)); }
+        100% { fill: #00FF66; filter: drop-shadow(0 0 8px rgba(0,255,102,0.6)); }
+      }
+      @keyframes borderGlow {
+        0% { stroke: #00FF66; stroke-opacity: 0.4; }
+        50% { stroke: #00F3FF; stroke-opacity: 0.85; }
+        100% { stroke: #00FF66; stroke-opacity: 0.4; }
+      }
+    </style>
+  </defs>
+
+  <!-- Card Frame -->
+  <rect x="5" y="5" width="840" height="230" rx="16" fill="url(#bgGrad)" stroke="#00FF66" stroke-width="2" class="border-pulse" />
+
+  <!-- Circuit Pattern Lines -->
+  <line x1="20" y1="40" x2="830" y2="40" class="circuit-line" />
+  <line x1="20" y1="200" x2="830" y2="200" class="circuit-line" />
+  <circle cx="20" cy="40" r="3" fill="#00FF66" opacity="0.6" />
+  <circle cx="830" cy="40" r="3" fill="#00FF66" opacity="0.6" />
+  <circle cx="20" cy="200" r="3" fill="#00FF66" opacity="0.6" />
+  <circle cx="830" cy="200" r="3" fill="#00FF66" opacity="0.6" />
+
+  <!-- Corner Tech Brackets -->
+  <path d="M 25 20 L 15 20 L 15 35" fill="none" stroke="#00FF66" stroke-width="2" opacity="0.7" />
+  <path d="M 825 20 L 835 20 L 835 35" fill="none" stroke="#00FF66" stroke-width="2" opacity="0.7" />
+  <path d="M 25 220 L 15 220 L 15 205" fill="none" stroke="#00FF66" stroke-width="2" opacity="0.7" />
+  <path d="M 825 220 L 835 220 L 835 205" fill="none" stroke="#00FF66" stroke-width="2" opacity="0.7" />
+
+  <!-- Main Hero Title -->
+  <g text-anchor="middle">
+    <text x="425" y="105" class="title" filter="url(#glow)">PRATIK VERMA</text>
+    <text x="425" y="145" class="subtitle" filter="url(#subtleGlow)">⚡ AI &amp; FULL-STACK AUTOMATION ENGINEER ⚡</text>
+    <text x="425" y="180" class="status">
+      [<tspan class="badge-accent">SYSTEM: ONLINE</tspan>]  •  [<tspan class="badge-accent">ROLE: BUILDER</tspan>]  •  [<tspan class="badge-accent">INDIA 🇮🇳</tspan>]
+    </text>
+  </g>
+</svg>

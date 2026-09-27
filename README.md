@@ -1,17 +1,9 @@
 <div align="center">
 
-<!-- PORTFOLIO HERO HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:000000&height=200&section=header&text=PRATIK%20VERMA&fontSize=48&fontAlign=50&fontAlignY=38&stroke=00FF66&strokeWidth=2&desc=AI%20%26%20FULL-STACK%20AUTOMATION%20ENGINEER&descSize=18&descAlign=50&descAlignY=65" width="100%" alt="Portfolio Hero Header" />
+<!-- 1. BULLETPROOF SELF-HOSTED ANIMATED CYBERPUNK HEADER -->
+<img src="./assets/header.svg" width="100%" alt="Pratik Verma Hero Header" />
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=450&height=35&lines=%3E_PORTFOLIO_SYSTEM_ONLINE...;%3E_AI_%26_FULLSTACK_ENGINEER;%3E_CREATOR_OF_TECHVERMA" alt="Typing SVG" />
-
-<p align="center">
-  <code><b>[SYSTEM: ONLINE]</b></code> • <code><b>[LOCATION: INDIA]</b></code> • <code><b>[STATUS: BUILDING SAAS]</b></code>
-</p>
-
-<!-- ACTION BADGES ROW -->
+<!-- 2. REAL ACTION CONNECT BADGES -->
 <p align="center">
   <a href="https://pratikverma74.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/⚡_LIVE_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00FF66" />
@@ -20,47 +12,34 @@
     <img src="https://img.shields.io/badge/🌐_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://tpc-madhepura.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_FEATURED_APP-FF4500?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/🚀_LIVE_APP-FF4500?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Pratik-verma-74&color=00ff66&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </p>
 
-<!-- CODER ANIMATED GIF BANNER -->
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyberpunk Coder GIF" />
+<!-- 3. VERIFIED ANIMATED DEVELOPER CODING GIF -->
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%" height="280" alt="Developer Coding GIF" />
 
 </div>
 
 ---
 
-### 👨‍💻 Portfolio Overview & Mission
-
-```yaml
-Developer: Pratik Verma
-Role: AI & Full-Stack Automation Engineer
-Channel: TechVerma (YouTube)
-Core_Focus: Healthcare Apps, Workflow Automation & High-Performance Web UI
-Location: India 🇮🇳
-Live_Portfolio: pratikverma74.vercel.app
-```
-
----
-
-### 💻 `pratik_core.py` — Developer Terminal
+### 💻 `pratik_system.py` — Developer Terminal
 
 ```python
 class HackerDeveloper:
     def __init__(self):
         self.name = "Pratik Verma"
         self.handle = "Pratik-verma-74"
-        self.portfolio = "pratikverma74.vercel.app"
-        self.live_app = "tpc-madhepura.vercel.app"
+        self.location = "India 🇮🇳"
         self.role = "AI & Full-Stack Automation Engineer"
-        self.youtube = "TechVerma"
-        self.stack = ["Python", "TypeScript", "React", "Next.js", "Tailwind"]
+        self.channel = "TechVerma (YouTube)"
+        self.portfolio = "https://pratikverma74.vercel.app"
+        self.live_app = "https://tpc-madhepura.vercel.app"
+        self.stack = ["Python", "TypeScript", "React", "Next.js", "TailwindCSS"]
         
     def get_mission(self):
-        return "Building intelligent healthcare, automation & high-performance platforms."
+        return "Building intelligent healthcare systems, AI automation workflows & scalable SaaS."
 
 sys = HackerDeveloper()
 print(sys.get_mission())
@@ -76,7 +55,7 @@ print(sys.get_mission())
 
 ---
 
-### 🚀 Featured Portfolio Projects (Clickable Work)
+### 🚀 Real Flagship Projects (Clickable Work)
 
 <table>
   <tr>
@@ -114,9 +93,7 @@ print(sys.get_mission())
 
 ---
 
-### 📊 Real-Time Dynamic Analytics (Live GitHub API)
-
-> 💡 *Note: The stats below are **100% LIVE REAL-TIME DATA** fetched dynamically from GitHub's server on every commit!*
+### 📊 Real-Time Dynamic Analytics (Live GitHub Data)
 
 <div align="center">
   <!-- Live Verified Dynamic Summary Cards -->
@@ -129,7 +106,7 @@ print(sys.get_mission())
 
 ---
 
-### 🐍 Live Contribution Activity Matrix
+### 🐍 Contribution Activity Matrix
 
 <div align="center">
   <picture>
