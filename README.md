@@ -1,15 +1,16 @@
 <div align="center">
 
-# ⚡ PRATIK VERMA ⚡
-### `AI & Full-Stack Automation Engineer`
+<!-- 1. DYNAMIC DARK ANIMATED WAVING HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:000000&height=180&section=header&text=PRATIK%20VERMA&fontSize=42&fontAlign=50&fontAlignY=40&stroke=00FF66&strokeWidth=2" width="100%" alt="Header Banner" />
 
+<!-- 2. ANIMATED MATRIX TYPING CONSOLE -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=420&height=35&lines=%3E_PRATIK_VERMA_SYSTEM;%3E_AI_%26_FULLSTACK_AUTOMATOR;%3E_CREATOR_OF_TECHVERMA" alt="Typing SVG" />
 
 <p align="center">
-  <code><b>[SYSTEM: ONLINE]</b></code> • <code><b>[ROLE: AUTOMATOR]</b></code> • <code><b>[LEVEL: ADMIN]</b></code>
+  <code><b>[SYSTEM: ONLINE]</b></code> • <code><b>[ROLE: AI AUTOMATOR]</b></code> • <code><b>[LEVEL: ADMIN]</b></code>
 </p>
 
-<!-- COMPACT REAL SOCIAL BADGES ROW -->
+<!-- 3. REAL SOCIAL CONNECT BADGES -->
 <p align="center">
   <a href="https://pratikverma74.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/⚡_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00FF66" />
@@ -23,16 +24,15 @@
   <img src="https://komarev.com/ghpvc/?username=Pratik-verma-74&color=00ff66&style=for-the-badge&label=VISITORS" alt="Visitor Counter" />
 </p>
 
+<!-- 4. PREMIUM ANIMATED CODER GIF BANNER -->
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyberpunk Coder GIF" />
+
 </div>
 
 ---
 
-### 🖥️ Developer Workspace & Terminal
-
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <h4 align="center">💻 `pratik_core.py` — Terminal Console</h4>
+### 💻 `pratik_core.py` — Terminal Console
 
 ```python
 class HackerDeveloper:
@@ -40,22 +40,17 @@ class HackerDeveloper:
         self.name = "Pratik Verma"
         self.handle = "Pratik-verma-74"
         self.portfolio = "pratikverma74.vercel.app"
-        self.role = "AI & Full-Stack Automator"
-        self.channel = "TechVerma (YouTube)"
+        self.live_app = "tpc-madhepura.vercel.app"
+        self.role = "AI & Full-Stack Automation Engineer"
+        self.youtube = "TechVerma"
         self.stack = ["Python", "TypeScript", "React", "Next.js", "Tailwind"]
         
     def get_mission(self):
-        return "Building smart healthcare & AI automation platforms."
+        return "Building intelligent healthcare, automation & high-performance platforms."
 
 sys = HackerDeveloper()
 print(sys.get_mission())
 ```
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer Coding GIF" />
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -92,6 +87,13 @@ print(sys.get_mission())
       <a href="https://github.com/Pratik-verma-74/ISRO-HACKATHOB-PS1" target="_blank"><b>🚀 Bihar To ISRO (ISRO Hackathon)</b></a><br>
       <sub>Educational space technology platform developed for ISRO Hackathon.</sub><br>
       <code>Web Platform</code> • <code>EdTech</code> • <code>Aerospace</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" colspan="2">
+      <a href="https://github.com/Pratik-verma-74/resume-builder" target="_blank"><b>📄 Autonomous AI Resume Builder</b></a><br>
+      <sub>Smart AI resume generator with clean UI & export features.</sub><br>
+      <code>JavaScript</code> • <code>AI Automation</code> • <code>UI/UX</code>
     </td>
   </tr>
 </table>
