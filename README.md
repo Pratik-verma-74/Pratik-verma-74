@@ -3,7 +3,7 @@
 <!-- 1. BULLETPROOF SELF-HOSTED ANIMATED CYBERPUNK HEADER -->
 <img src="./assets/header.svg" width="100%" alt="Pratik Verma Hero Header" />
 
-<!-- 2. REAL ACTION CONNECT BADGES -->
+<!-- 2. REAL ACTION CONNECT BADGES (CLICK LIVE APPS TO JUMP TO DIRECTORY) -->
 <p align="center">
   <a href="https://pratikverma74.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/⚡_LIVE_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00FF66" />
@@ -11,14 +11,14 @@
   <a href="https://linkedin.com/in/pratik-verma-177b49299" target="_blank">
     <img src="https://img.shields.io/badge/🌐_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://tpc-madhepura.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_LIVE_APP-FF4500?style=for-the-badge&logo=firefox&logoColor=white" />
+  <a href="#-all-live-applications--deployments">
+    <img src="https://img.shields.io/badge/🚀_LIVE_APPS_(15+)-FF4500?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Pratik-verma-74&color=00ff66&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </p>
 
 <!-- 3. VERIFIED ANIMATED DEVELOPER CODING GIF -->
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%" height="280" alt="Developer Coding GIF" />
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%" height="240" alt="Developer Coding GIF" />
 
 </div>
 
@@ -35,7 +35,6 @@ class HackerDeveloper:
         self.role = "AI & Full-Stack Automation Engineer"
         self.channel = "TechVerma (YouTube)"
         self.portfolio = "https://pratikverma74.vercel.app"
-        self.live_app = "https://tpc-madhepura.vercel.app"
         self.stack = ["Python", "TypeScript", "React", "Next.js", "TailwindCSS"]
         
     def get_mission(self):
@@ -55,41 +54,27 @@ print(sys.get_mission())
 
 ---
 
-### 🚀 Real Flagship Projects (Clickable Work)
+### 🚀 All Live Applications & Deployments
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Pratik-verma-74/patient-report" target="_blank"><b>🏥 Sirjan Memorial Hospital</b></a><br>
-      <sub>Comprehensive healthcare management platform for patient care & medical reporting.</sub><br>
-      <code>Next.js</code> • <code>Healthcare</code> • <code>React</code>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Pratik-verma-74/wolterpharma" target="_blank"><b>💊 WolterPharma</b></a><br>
-      <sub>Pharmaceutical E-commerce & healthcare catalog web application.</sub><br>
-      <code>TypeScript</code> • <code>Pharma Tech</code> • <code>Tailwind</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Pratik-verma-74/ps8" target="_blank"><b>⚡ PS8 Platform</b></a><br>
-      <sub>High-performance automation & custom software workflow tool.</sub><br>
-      <code>Python</code> • <code>Automation</code> • <code>Full-Stack</code>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Pratik-verma-74/ISRO-HACKATHOB-PS1" target="_blank"><b>🚀 Bihar To ISRO (ISRO Hackathon)</b></a><br>
-      <sub>Educational space technology platform developed for ISRO Hackathon.</sub><br>
-      <code>Web Platform</code> • <code>EdTech</code> • <code>Aerospace</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" colspan="2">
-      <a href="https://github.com/Pratik-verma-74/resume-builder" target="_blank"><b>📄 Autonomous AI Resume Builder</b></a><br>
-      <sub>Smart AI resume generator with clean UI & export features.</sub><br>
-      <code>JavaScript</code> • <code>AI Automation</code> • <code>UI/UX</code>
-    </td>
-  </tr>
-</table>
+> ⚡ *Click on any **Live Demo** link to open and explore the live deployed application:*
+
+| 🌐 Application Name | 📦 GitHub Repository | 🔗 Live Production URL | 🏷️ Domain / Stack |
+| :--- | :--- | :--- | :--- |
+| **🏥 AI-First Healthcare CRM** | [Repo](https://github.com/Pratik-verma-74/AI-First-Healthcare-CRM) | [👉 Open Live App](https://ai-first-healthcare-crm.vercel.app) | Healthcare & CRM |
+| **🚀 Bihar To ISRO** | [Repo](https://github.com/Pratik-verma-74/BiharToIsro) | [👉 Open Live App](https://bihar-to-isro.vercel.app) | Aerospace & EdTech |
+| **⚡ PS8 Automation Tool** | [Repo](https://github.com/Pratik-verma-74/ps8) | [👉 Open Live App](https://ps8-three.vercel.app) | Python & Automation |
+| **💊 WolterPharma Catalog** | [Repo](https://github.com/Pratik-verma-74/wolterpharma-catalog) | [👉 Open Live App](https://wolterpharma-catalog.vercel.app) | Pharma E-Commerce |
+| **🩺 Life HomeCare** | [Repo](https://github.com/Pratik-verma-74/LIFE-HOMECARE) | [👉 Open Live App](https://life-homecare.vercel.app) | Healthcare Services |
+| **🏆 SIH 2026 Innovation** | [Repo](https://github.com/Pratik-verma-74/SIH83) | [👉 Open Live App](https://sih2026-wheat.vercel.app) | Smart India Hackathon |
+| **🚛 AV Trucks Wale** | [Repo](https://github.com/Pratik-verma-74/AV-TRUCKS-WALE) | [👉 Open Live App](https://av-trucks-wale.vercel.app) | Logistics & Transport |
+| **🌾 Koshi Amrit Producer** | [Repo](https://github.com/Pratik-verma-74/koshi-amrit-producer-company-limited) | [👉 Open Live App](https://koshi-amrit-producer-company-limite.vercel.app) | AgriTech & Business |
+| **📋 LIC Agent Assistant** | [Repo](https://github.com/Pratik-verma-74/lic-agent-assistant) | [👉 Open Live App](https://lic-agent-assistant-two.vercel.app) | FinTech & InsurTech |
+| **📊 PowerBI Mini Version** | [Repo](https://github.com/Pratik-verma-74/PowerBi-mini-version) | [👉 Open Live App](https://power-bi-mini-version.vercel.app) | Business Intelligence |
+| **📈 MR Report Generator** | [Repo](https://github.com/Pratik-verma-74/Mr-report-generator) | [👉 Open Live App](https://mr-report-generator.vercel.app) | Pharma Analytics |
+| **📚 QPHUB Platform** | [Repo](https://github.com/Pratik-verma-74/QPHUB) | [👉 Open Live App](https://qphub-wine.vercel.app) | Education Portal |
+| **🏭 UPS Manufacture** | [Repo](https://github.com/Pratik-verma-74/UPS-MANUFECTUTERE) | [👉 Open Live App](https://ups-manufectutere.vercel.app) | Industrial Platform |
+| **🎨 View Lens UI** | [Repo](https://github.com/Pratik-verma-74/view-lens-ui-) | [👉 Open Live App](https://view-lens-ui.vercel.app) | Modern UI Components |
+| **🌐 TPC Madhepura** | [Repo](https://github.com/Pratik-verma-74) | [👉 Open Live App](https://tpc-madhepura.vercel.app/) | Education & Portal |
 
 ---
 
